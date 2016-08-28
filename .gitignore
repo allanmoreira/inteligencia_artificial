@@ -1,5 +1,6 @@
 #Projeto Pycharm
-search-allanmoreira/.idea/
+T1A_informed_search/.idea
+T1B_adversarial-search/.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
